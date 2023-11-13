@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daisy-duk3
+- 👋 Hi, I’m 🌼 @Daisy-duk3 🌼
 - 👀 I’m interested in game design 🎮
 - 🌱 I’m currently learning C# & Unity
 - 💞️ I’m looking to collaborate on my personal project
