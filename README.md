@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 🌼 @Daisy-duk3 🌼
-- 👀 I’m interested in game design 🎮
-- 🌱 I’m currently learning C# & Unity
+- 👀 I’m interested in game design 🎮 and learning python for data science ✨
+- 🌱 I’m currently learning C# & Python
 - 💞️ I’m looking to collaborate on my personal project
 - 📫 How to reach me ...
 
