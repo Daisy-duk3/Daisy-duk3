@@ -4,7 +4,7 @@
 
 .⭑·ﾟﾟ·*:༅。.。༅:*ﾟ:*:✼✿✼:*ﾟ:༅。.。༅:*·ﾟﾟ·⭑.
 
-### 💡 About Me
+## 💡 About Me
 - 🌱 Currently diving deeper into **algorithms** and AI
 - 🎨 Love turning raw data into **beautiful visualisations**  
 - 🐍 Coded with Python & 💻 C# (always learning!)  
@@ -14,7 +14,6 @@
 .⭑·ﾟﾟ·*:༅。.。༅:*ﾟ:*:✼✿✼:*ﾟ:༅。.。༅:*·ﾟﾟ·⭑.
 
 ### 🌟 Fun Side of Me
-- 🔒 Advocate for **privacy & digital freedom**  
 - 🧩 Love solving challenges & learning new concepts  
 - 🎮 Always up for games, puzzles, and creative tinkering  
 
