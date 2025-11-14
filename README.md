@@ -13,7 +13,6 @@
 
 .⭑·ﾟﾟ·*:༅。.。༅:*ﾟ:*:✼✿✼:*ﾟ:༅。.。༅:*·ﾟﾟ·⭑.
 
-### 🌟 Fun Side of Me
 - 🧩 Love solving challenges & learning new concepts  
 - 🎮 Always up for games, puzzles, and creative tinkering  
 
@@ -21,8 +20,6 @@
 
 ### 📫 Let’s Connect
 💬 I’m open to collaboration  
-
-🚀 *Let’s build something awesome together!*  
 
 ---
 ⭐️ From [Daisy](#) 🌼
