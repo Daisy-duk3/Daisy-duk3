@@ -2,31 +2,30 @@
 
 # 🌼 Hey, I’m Daisy!
 
-🛡️ **Aspiring cyber security analyst** 🛡️  
+creative developer documenting things i build and break  
 
 .⭑·ﾟﾟ·*:༅。.。༅:*ﾟ:*:✼✿✼:*ﾟ:༅。.。༅:*·ﾟﾟ·⭑.
 
 # 💫 About Me:
 
-🌱 Currently diving deeper into OOP principles  
-🎨 Love turning raw data into beautiful visualisations  
-🐍 Coded with Python & 💻 C# (always learning!)  
-🕵️‍♀️ Passionate about anonymity & security online  
-🤝 Open to collaborating on cool & impactful projects  
+🛡️ interested in anonymity, privacy & secure systems 
+🌐 currently exploring networking + self-hosted infrastructure 
+🍓 building a raspberry pi home server 
+⛓️ writing a blockchain from scratch 
+🐍 mostly working with python & javascript 
+
 .⭑·ﾟﾟ·*:༅。.。༅:ﾟ::✼✿✼:ﾟ:༅。.。༅:·ﾟﾟ·⭑.  
 
 <br>
 
-🧩 Love solving challenges & learning new concepts  
-🎮 Always up for games, puzzles, and creative tinkering  
+i like turning ideas into real projects usually chaotic, occasionally functional  
+
 .⭑·ﾟﾟ·*:༅。.。༅:ﾟ::✼✿✼:ﾟ:༅。.。༅:·ﾟﾟ·⭑.
 
 </div>
 
 
-# 💻 Tech Stack:
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat-square&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+# 💻 tech i actually use ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square&logo=tails&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=tor-project&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 
 
 ---
