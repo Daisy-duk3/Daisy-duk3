@@ -8,11 +8,7 @@ creative developer documenting things i build and break
 
 # 💫 About Me:
 
-🛡️ interested in anonymity, privacy & secure systems 
-🌐 currently exploring networking + self-hosted infrastructure 
-🍓 building a raspberry pi home server 
-⛓️ writing a blockchain from scratch 
-🐍 mostly working with python & javascript 
+🛡️ interested in anonymity, privacy & secure systems <br> 🌐 currently exploring networking + self-hosted infrastructure <br> 🍓 building a raspberry pi home server <br> ⛓️ writing a blockchain from scratch <br> 🐍 mostly working with python & javascript
 
 .⭑·ﾟﾟ·*:༅。.。༅:ﾟ::✼✿✼:ﾟ:༅。.。༅:·ﾟﾟ·⭑.  
 
